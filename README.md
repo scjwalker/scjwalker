@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @scjwalker
+- 👋 Hi, I’m Sam Walker
 - 👀 I’m interested in: UX, IA, civic tech, user research
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me . . .
+- 📫 Email: samwalker.pluribus@gmail.com
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: ...
+
 
 <!---
 scjwalker/scjwalker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
