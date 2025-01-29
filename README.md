@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam Walker
-- 👀 I’m interested in: UX, IA, civic tech, user research
-- 📫 Email: samwalker.pluribus@gmail.com
+- 👀 I’m interested in: UX, IA, civic tech, user research, accessibility
+- 📫 Email: sam.cj.walker@gmail.com
 - 😄 Pronouns: they/them
 
 
