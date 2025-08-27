@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam Walker
-- 👀 I’m interested in: UX, IA, civic tech, user research, accessibility
+- 👀 I’m interested in: UX, IA, OOUX, civic tech, digital spaces for professional women's sports, user research, accessibility.
 - 📫 Email: sam.cj.walker@gmail.com
 - 😄 Pronouns: they/them
 
